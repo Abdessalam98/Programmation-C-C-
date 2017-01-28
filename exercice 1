@@ -1,0 +1,8 @@
+Enoncé:
+
+Ecrivez un programme qui demande à l'utilisateur un entier positif et qui calcule et affiche
+un entier représentant ce nombre au carré.
+Le calcul du carré de ce nombre doit se faire de la manière suivante :
+Le carré du nombre x est égal à la somme des premiers nombres impairs positifs (à commencer par 1).
+Par exemple, le carré du nombre 4 est égal à 1+3+5+7=16 (somme des 4 premiers nombres impairs positifs).
+
