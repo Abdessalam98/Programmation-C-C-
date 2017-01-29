@@ -1,2 +1,2 @@
-Ecrire un programme qui demande à l'utilisateur de taper 5 entiers et qui affiche leur moyenne.
+Ecrire un programme qui demande à l'utilisateur de saisir 5 entiers et qui affiche leur moyenne.
 Le programme ne devra utiliser que 2 variables.
